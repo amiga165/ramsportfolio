@@ -1,2 +1,2 @@
-# ramsportfolio.github.io
+# ramsportfolio
 Ram's Portfolio Website
